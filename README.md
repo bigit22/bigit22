@@ -19,7 +19,7 @@ Backend-разработчик из Новосибирска
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=koresh-yar&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bigit22&show_icons=true&theme=radical)
 
 ## 📂 Проекты
 
