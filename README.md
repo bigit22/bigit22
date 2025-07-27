@@ -5,7 +5,7 @@ Backend-разработчик из Новосибирска
 - 🔭 Сейчас работаю над проектом [YouMySoul](https://github.com/YouMySoul)
 - 🌱 Изучаю: асинхронный Python, микросервисы, DevOps
 - 💬 Могу помочь с FastAPI, PostgreSQL, Docker
-- 📫 Как связаться: [Telegram](https://t.me/smbdinsociety) | [E-mail](koresh.yar@mail.ru)
+- 📫 Как связаться: [Telegram](https://t.me/smbdinsociety) | [E-mail](mailto:koresh.yar@mail.ru)
 
 ## 🛠️ Навыки и технологии
 
