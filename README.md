@@ -42,4 +42,6 @@ Backend-разработчик из Новосибирска
 - [YouMySoul](https://github.com/YouMySoul) — серверная часть приложения на FastAPI
 
 
+## GitHub Trophies
+![Achievements](https://img.shields.io/badge/Achievements-%F0%9F%8F%86%20Trophies-blueviolet?style=for-the-badge)
 [![trophy](https://github-profile-trophy.vercel.app/?username=bigit22&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
