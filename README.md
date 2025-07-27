@@ -40,3 +40,6 @@ Backend-разработчик из Новосибирска
 ## 📂 Проекты
 
 - [YouMySoul](https://github.com/YouMySoul) — серверная часть приложения на FastAPI
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=bigit22&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
