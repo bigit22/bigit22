@@ -41,7 +41,6 @@ Backend-разработчик из Новосибирска
 
 - [YouMySoul](https://github.com/YouMySoul) — занимаюсь серверной частью дейтинг-приложения (FastAPI).
 - [AiogramBot](https://github.com/bigit22/AiogramBot) — Телеграм-бот на Python с использованием aiogram для общения с апи нейросети.
-- [cat-on-c](https://github.com/bigit22/cat-on-c) — Клон утилиты cat и grep на языке C.
 - [CSVTask](https://github.com/bigit22/CSVTask) — Работа с CSV-файлами на Python.
 - [DiamantVisionTask](https://github.com/bigit22/DiamantVisionTask) — Сервис обработки жалоб на Python.
 - [FVTask](https://github.com/bigit22/FVTask) — Таск менеджер на Python.
