@@ -49,4 +49,5 @@ Backend-разработчик из Новосибирска
 
 ## 🏆 Достижения
 ![Achievements](https://img.shields.io/badge/Achievements-%F0%9F%8F%86%20Trophies-blueviolet?style=for-the-badge)
-[![trophy](https://github-profile-trophy.vercel.app/?username=bigit22)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://vercel.app)](https://github.com/bigit22/github-profile-trophy)
+
