@@ -34,10 +34,8 @@ Backend-разработчик из Новосибирска
 
 ## 📈 GitHub Stats
 
-## 📊 GitHub Stats
-![](./profile-summary-card-output/default/0-profile-details.svg)
-![](./profile-summary-card-output/default/1-languages.svg)
-
+![](./profile-summary-card-output/dracula/0-profile-details.svg)
+![](./profile-summary-card-output/dracula/1-languages.svg)
 
 ## 📂 Проекты
 
