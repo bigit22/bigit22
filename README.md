@@ -30,7 +30,7 @@ Backend Developer based in Novosibirsk, Russia
 
 ## 🌐 Languages
 
-![Русский](https://img.shields.io/badge/Русский-Native-0052B4?style=for-the-badge&logo=target&logoColor=white)
+![Russian](https://img.shields.io/badge/Русский-Native-0052B4?style=for-the-badge&logo=target&logoColor=white)
 ![English](https://img.shields.io/badge/English-B2-00247D?style=for-the-badge&logo=english-heritage&logoColor=white)
 
 ## 📈 GitHub Stats
