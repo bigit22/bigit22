@@ -50,7 +50,8 @@ Backend-разработчик из Новосибирска
 ## 🏆 Достижения
 
 ![Achievements](https://img.shields.io/badge/Achievements-%F0%9F%8F%86%20Trophies-blueviolet?style=for-the-badge)
-![](./trophy.svg)
+![](./github-metrics.svg)
+
 
 
 
