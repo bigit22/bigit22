@@ -34,7 +34,10 @@ Backend-разработчик из Новосибирска
 
 ## 📈 GitHub Stats
 
-![](./profile-summary-card-output/classic/0-profile-details.svg)
+## 📊 GitHub Stats
+![](./profile-summary-card-output/default/0-profile-details.svg)
+![](./profile-summary-card-output/default/1-languages.svg)
+
 
 ## 📂 Проекты
 
