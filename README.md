@@ -1,13 +1,13 @@
-# Привет! Я Ярослав 👋
+# Hi! I'm Yaroslav 👋
 
-Backend-разработчик из Новосибирска
+Backend Developer based in Novosibirsk, Russia
 
-- 🔭 Сейчас работаю над проектом [YouMySoul](https://github.com/YouMySoul)
-- 🌱 Изучаю: асинхронный Python, микросервисы, DevOps
-- 💬 Могу помочь с FastAPI, PostgreSQL, Docker
-- 📫 Как связаться: [Telegram](https://t.me/smbdinsociety) | [E-mail](mailto:koresh.yar@mail.ru) если ссылки не работают: https://t.me/smbdinsociety koresh.yar@mail.ru
+- 🔭 Currently developing [YouMySoul](https://github.com/YouMySoul) and [Yazio Nutrition Integrator](https://github.com/bigit22/YazioNutritionIntegrator)
+- 🌱 Exploring: Asynchronous Python, Microservices, and DevOps
+- 💬 Tech support & consultation: FastAPI, PostgreSQL, Docker
+- 📫 Contact me: [Telegram](https://t.me/smbdinsociety) | [E-mail](mailto:koresh.yar@mail.ru) (Alternative: https://t.me/smbdinsociety / koresh.yar@mail.ru)
 
-## 🛠️ Навыки и технологии
+## 🛠️ Skills & Technologies
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -28,7 +28,7 @@ Backend-разработчик из Новосибирска
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![API](https://img.shields.io/badge/-API-FF6F00?style=for-the-badge&logo=api&logoColor=white)
 
-## 🌐 Языки
+## 🌐 Languages
 
 ![Русский](https://img.shields.io/badge/Русский-Native-0052B4?style=for-the-badge&logo=target&logoColor=white)
 ![English](https://img.shields.io/badge/English-B2-00247D?style=for-the-badge&logo=english-heritage&logoColor=white)
@@ -38,21 +38,12 @@ Backend-разработчик из Новосибирска
 ![](./profile-summary-card-output/dracula/0-profile-details.svg)
 ![](./profile-summary-card-output/dracula/1-languages.svg)
 
-## 📂 Проекты
+## 📂 Featured Projects
 
-- [YouMySoul](https://github.com/YouMySoul) — занимаюсь серверной частью дейтинг-приложения (FastAPI).
-- [AiogramBot](https://github.com/bigit22/AiogramBot) — Телеграм-бот на Python с использованием aiogram для общения с апи нейросети.
-- [CSVTask](https://github.com/bigit22/CSVTask) — Работа с CSV-файлами на Python.
-- [DiamantVisionTask](https://github.com/bigit22/DiamantVisionTask) — Сервис обработки жалоб на Python.
-- [FVTask](https://github.com/bigit22/FVTask) — Таск менеджер на Python.
-- [print-from-polish-notation](https://github.com/bigit22/print-from-polish-notation) — Печать графика польской нотации на C.
+- [Yazio Nutrition Integrator](https://github.com/bigit22/YazioNutritionIntegrator) `v0.1.0` — A Telegram bot that analyzes food photos using Google Gemini and automatically syncs logs to the Yazio food diary. Built with FastAPI, aiogram, and PostgreSQL.
+- [YouMySoul](https://github.com/YouMySoul) — Backend development for a modern dating application powered by FastAPI.
 
-
-## 🏆 Достижения
+## 🏆 Achievements
 
 ![Achievements](https://img.shields.io/badge/Achievements-%F0%9F%8F%86%20Trophies-blueviolet?style=for-the-badge)
 [![GitHub Trophies](https://github-trophies.vercel.app/?username=bigit22&theme=onedark)](https://github@com/ryo-ma/github-profile-trophy)
-
-
-
-
