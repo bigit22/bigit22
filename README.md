@@ -30,12 +30,11 @@ Backend-разработчик из Новосибирска
 
 ## 🌐 Языки
 
-![Русский](https://img.shields.io/badge/-Русский-005BBB?style=for-the-badge&logo=google-translate&logoColor=white)
-![English B2](https://img.shields.io/badge/-English%20B2-007ACC?style=for-the-badge&logo=google-translate&logoColor=white)
+![](./profile-summary-card-output/classic/1-languages.svg)
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bigit22&show_icons=true&theme=radical)
+![](./profile-summary-card-output/classic/0-profile-details.svg)
 
 ## 📂 Проекты
 
@@ -48,7 +47,9 @@ Backend-разработчик из Новосибирска
 
 
 ## 🏆 Достижения
+
 ![Achievements](https://img.shields.io/badge/Achievements-%F0%9F%8F%86%20Trophies-blueviolet?style=for-the-badge)
-![](https://raw.githubusercontent.com/bigit22/bigit22/main/trophy.svg)
+![](./trophy.svg)
+
 
 
