@@ -41,6 +41,7 @@ Backend Developer based in Novosibirsk, Russia
 ## 📂 Featured Projects
 
 - [Yazio Nutrition Integrator](https://github.com/bigit22/YazioNutritionIntegrator) `v0.1.0` — A Telegram bot that analyzes food photos using Google Gemini and automatically syncs logs to the Yazio food diary. Built with FastAPI, aiogram, and PostgreSQL.
+- [TuyaLightshow](https://github.com/bigit22/TuyaLightshow) `v0.2.0` - A high-speed, 60+ FPS Windows GUI app that syncs local Tuya WiFi LED strips with system audio using advanced bass filtering.
 - [YouMySoul](https://github.com/YouMySoul) — Backend development for a modern dating application powered by FastAPI.
 
 ## 🏆 Achievements
